@@ -1,3 +1,3 @@
-#We have moved back to the mail branch of the project under the RIEI Group name.
+#We have moved back to the main branch of the project under the RIEI Group name.
 
 #https://github.com/riei/wifidb/
